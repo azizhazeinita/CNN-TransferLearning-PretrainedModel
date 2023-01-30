@@ -10,7 +10,8 @@ Methodologies:
 * Pre-trained Resnet-50
 * Pre-trained EfficientNet-B7
 
-Dataset, run these lines below on the terminal:
+Dataset: ImageNet subset (Imagenette)
+* Run these lines below on the terminal:
 
 $ wget https://s3.amazonaws.com/fast-ai-imageclas/imagenette2.tgz 
 
